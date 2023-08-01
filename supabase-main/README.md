@@ -101,7 +101,7 @@ Future login({
 ![supabase_setup7](https://github.com/dhavalsabhaya1/FlutterSupabaseDemo/blob/main/supabase-main/screenshot/supabase_setup7.png)
 
 # App Preview
-![app_preview](https://github.com/rp3110/supabase/blob/main/screenshot/app_preview.png)
+![app_preview](https://github.com/dhavalsabhaya1/FlutterSupabaseDemo/blob/main/supabase-main/screenshot/app_preview.png)
 
 
 # Created By
