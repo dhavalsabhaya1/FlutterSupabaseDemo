@@ -3,7 +3,7 @@
 Supabase is an open source Firebase alternative providing all the backend features you need to build a product.
 In this flutter app, I have implemented email-password,facebook,github,phone authentication and Supabase database.
 
-![Supabase_logo](https://github.com/rp3110/supabase/blob/main/screenshot/supabase.png)
+![Supabase_logo](https://github.com/dhavalsabhaya1/FlutterSupabaseDemo/blob/main/supabase-main/screenshot/supabase.png)
 
 - Flutter App
 - Supabase
@@ -92,18 +92,18 @@ Future login({
  - [Twilio setup](https://www.twilio.com/blog/get-started-twilio-free-sms-businesses#:~:text=Get%20started%20for%20free%20with,up%20SMS%20for%20your%20business)
 
 # Supabase setup
-![supabase_setup1](https://github.com/rp3110/supabase/blob/main/screenshot/supabase_setup1.png)
-![supabase_setup2](https://github.com/rp3110/supabase/blob/main/screenshot/supabase_setup2.png)
-![supabase_setup3](https://github.com/rp3110/supabase/blob/main/screenshot/supabase_setup3.png)
-![supabase_setup4](https://github.com/rp3110/supabase/blob/main/screenshot/supabase_setup4.png)
-![supabase_setup5](https://github.com/rp3110/supabase/blob/main/screenshot/supabase_setup5.png)
-![supabase_setup6](https://github.com/rp3110/supabase/blob/main/screenshot/supabase_setup6.png)
-![supabase_setup7](https://github.com/rp3110/supabase/blob/main/screenshot/supabase_setup7.png)
+![supabase_setup1](https://github.com/dhavalsabhaya1/FlutterSupabaseDemo/blob/main/supabase-main/screenshot/supabase_setup1.png)
+![supabase_setup2](https://github.com/dhavalsabhaya1/FlutterSupabaseDemo/blob/main/supabase-main/screenshot/supabase_setup2.png)
+![supabase_setup3](https://github.com/dhavalsabhaya1/FlutterSupabaseDemo/blob/main/supabase-main/screenshot/supabase_setup3.png)
+![supabase_setup4](https://github.com/dhavalsabhaya1/FlutterSupabaseDemo/blob/main/supabase-main/screenshot/supabase_setup4.png)
+![supabase_setup5](https://github.com/dhavalsabhaya1/FlutterSupabaseDemo/blob/main/supabase-main/screenshot/supabase_setup5.png)
+![supabase_setup6](https://github.com/dhavalsabhaya1/FlutterSupabaseDemo/blob/main/supabase-main/screenshot/supabase_setup6.png)
+![supabase_setup7](https://github.com/dhavalsabhaya1/FlutterSupabaseDemo/blob/main/supabase-main/screenshot/supabase_setup7.png)
 
 # App Preview
-![app_preview](https://github.com/rp3110/supabase/blob/main/screenshot/app_preview.png)
+![app_preview](https://github.com/dhavalsabhaya1/FlutterSupabaseDemo/blob/main/supabase-main/screenshot/app_preview.png)
 
 
 # Created By
-- Rutu Hirapara
+- Dhaval Sabhaya
 
